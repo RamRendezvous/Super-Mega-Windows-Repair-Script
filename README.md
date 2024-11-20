@@ -21,7 +21,7 @@ The **Super Mega Windows Repair Script** is the ultimate batch file designed to 
 2. Open a command prompt as Administrator.
 3. Run the script by typing:
    ```batch
-   Super_Mega_Repair.bat
+   SuperMegaRepairScript.bat
    ```
 4. Follow the on-screen instructions and review the log file for detailed results.
 
